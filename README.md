@@ -1,5 +1,8 @@
 # Housing prices Prediction
 
+In this project housing data is used to analyse and predict the SalePrice of houses with the help of LinearRegression, DecisionTrees and RandomForest.
+
+
 # Data fields
 
 Here's a brief version of what you'll find in the data description file.
@@ -84,3 +87,6 @@ Here's a brief version of what you'll find in the data description file.
 * YrSold: Year Sold
 *  SaleType: Type of sale
 *  SaleCondition: Condition of sale
+
+# Dataset
+The dataset has been taken from [kaggle](https://www.kaggle.com/competitions/home-data-for-ml-course)

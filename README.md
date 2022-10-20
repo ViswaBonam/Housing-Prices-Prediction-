@@ -7,7 +7,7 @@ In this project housing data is used to analyse and predict the SalePrice of hou
 
 Here's a brief version of what you'll find in the data description file.
 
-* SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+* SalePrice: the property's sale price in dollars. This is the target variable that you're trying to predict.
 * MSSubClass: The building class
 * MSZoning: The general zoning classification
 * LotFrontage: Linear feet of street connected to property
